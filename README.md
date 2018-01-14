@@ -3,4 +3,4 @@ Portfolio of data science projects completed for academic and self-learning purp
 
 ## Contents
 ### Data Analysis and Visualisation
-* Global Terrorism Attacks: Analysis of terrorist attacks from 1970 to 2016 across the globe. 
+* Global Terrorism Attacks: Analysis of terrorist attacks from 1970 to 2016 across the globe using Seaborn visualisations.
