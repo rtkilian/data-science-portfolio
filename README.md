@@ -5,6 +5,7 @@ Portfolio of data science projects completed for academic and self-learning purp
 
 ### Machine Learning
 * [Modelling House Prices](../master/modelling-house-prices/models.ipynb): An analysis of several linear models to predict the value of a given house in the Boston real estate market. Identified the best price that a client can sell their house utilising machine learning. The associated report can be found [here](../master/modelling-house-prices.pdf).
+* [Response to Direct Mail Marketing](../master/modelling-consumer-response.ipynb): Using classification techniques, such as logistic regression, discriminant analysis and KNN, to predict whether a consumer will buy a product based on the direct mail marketing they have received. The associated report can be found [here](../master/modelling-consumer-response.pdf).
 
 ### Data Analysis and Visualisation
 * [Modelling House Prices](../master/modelling-house-prices/EDA.ipynb): Visualising how different features contribute to the pricing of a given house in the Boston real estate market. The associated report can be found [here](../master/modelling-house-prices.pdf).
