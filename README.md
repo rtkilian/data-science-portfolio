@@ -11,6 +11,7 @@ Portfolio of data science projects completed for academic and self-learning purp
 
 ### Data Analysis and Visualisation
 * [Modelling House Prices](../master/modelling-house-prices/EDA.ipynb): Visualising how different features contribute to the pricing of a given house in the Boston real estate market. The associated report can be found [here](../master/modelling-house-prices.pdf).
+* [Employee Turnover](../master/modelling-employee-turnover.ipynb): Analysis of the factors which contribute to employee turnover (Work in Progress).
 * [Global Terrorism Analysis](../master/global-terrorism_analysis.ipynb): Analysis of terrorist attacks from 1970 to 2016 across the globe using Seaborn visualisations (Work in Progress).
 
 ## Contact Me
