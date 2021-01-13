@@ -4,6 +4,7 @@ Portfolio of data science projects completed for academic and self-learning purp
 ## Contents
 
 ### Machine Learning
+* [Modelling South Australia's Electricity Supply](../master/Reducing_Power_Supply_Costs_in_South_Australia.pdf): creating a deep neural network model that outperforms the industry benchmark by 11%. This model is also compared to traditional time-series models.
 * [Modelling House Prices](../master/modelling-house-prices/models.ipynb): An analysis of several linear models to predict the value of a given house in the Boston real estate market. Identified the best price that a client can sell their house utilising machine learning. The associated report can be found [here](../master/modelling-house-prices.pdf).
 * [Response to Direct Mail Marketing](../master/modelling-consumer-response.ipynb): Using classification techniques, such as logistic regression, discriminant analysis and KNN, to predict whether a consumer will buy a product based on the direct mail marketing they have received. The associated report can be found [here](../master/modelling-consumer-response.pdf).
 * [Forecasting Retail Store Sales](../master/forecasting-rossmann-sales.ipynb): Using time-series modelling techniques, such as ARIMA and exponential smoothing, the amount (in dollars) of sales of a popular German retailer is forecasted. The associated report can be found [here](../master/forecasting-rossmann-sales.pdf).
